@@ -31,10 +31,9 @@ NFT Diplomas aims to revolutionize the way academic achievements are recognized 
 
 ## Developer Details
 
-- **Project Lead**: [Your Name](mailto:your.email@example.com)
-- **Contact**: [Your Email](mailto:your.email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Project Lead**: [Harsh Vardhan Sharma](mailto:harsh.v.sharma@outlook.com)
+- **Contact**: [harsh.v.sharma@outlook.com](mailto:harsh.v.sharma@outlook.com)
+- **GitHub**: [code-master-harsh](https://github.com/code-master-harsh)
 
 ---
 
@@ -42,9 +41,6 @@ Thank you for checking out NFT Diplomas! We are excited to bring innovation to d
 
 
 
-
-Vision:
-
-contract address: 0x3cc6ab0bba15c18d2871ffe495f02c7f0fcd2590
+contract address: 0x9751cb642c5ed3f30e2ba09136d3b4ae2b691cd0
 
 ![Alt text](image.png)
